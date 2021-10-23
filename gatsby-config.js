@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Fログ`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Yuki Furusho`,
+      summary: `芸術が好き`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `日記など`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `rhythmic0531`,
     },
   },
   plugins: [
